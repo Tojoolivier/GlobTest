@@ -1,0 +1,8 @@
+Question 1
+la fonction foo retourne l'union des itervals passé en entrée.
+
+Question 2
+vous trouverais le code dans index.php
+
+Question 3
+L'implementation de ce code à pris environs 35min.
